@@ -1,0 +1,108 @@
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Addtask.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Home.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Tasks.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.HomeProjectUserControl.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.HomeTaskUserControl.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.TasksFullUserControl.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\Resources\checkUnfinished.png
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\ReaLTaiizor.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\ReaLTaiizor.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.csproj.CopyComplete
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Addmember.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Login.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Buffers.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.IO.Pipelines.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Memory.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Text.Json.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.ValueTuple.dll
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Buffers.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.IO.Pipelines.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Memory.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Text.Json.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\bin\Debug\System.ValueTuple.xml
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Projects.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Register.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Inbox.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.AvatarForm.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.NotiUserControl.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Forms.AddMilestone.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Forms.AddMeeting.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.MeetingUserControl.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.MilestoneUserControl.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.MemberItem.resources
+C:\Users\baole\Documents\GitHub\FLowHub\OOP\OOP\obj\Debug\OOP.Usercontrols.ProjectTaskUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\Resources\checkUnfinished.png
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\ReaLTaiizor.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Buffers.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Memory.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Text.Json.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.ValueTuple.dll
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\ReaLTaiizor.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Buffers.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Memory.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Text.Json.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\bin\Debug\System.ValueTuple.xml
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Forms.AddMeeting.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Addmember.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Forms.AddMilestone.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Addtask.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.AvatarForm.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Inbox.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Login.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Home.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Projects.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Register.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Tasks.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.HomeProjectUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.HomeTaskUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.MeetingUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.MemberItem.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.MilestoneUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.NotiUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.ProjectTaskUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.Usercontrols.TasksFullUserControl.resources
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.csproj.Up2Date
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\dovie\Downloads\New folder\FLowHub_OOP\OOP\OOP\obj\Debug\OOP.pdb

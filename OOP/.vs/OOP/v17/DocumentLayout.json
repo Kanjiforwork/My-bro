@@ -1,0 +1,1084 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|c:\\users\\dovie\\downloads\\new folder\\flowhub_oop\\oop\\oop\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\services\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\services\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\iupdatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\iupdatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\notdone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\notdone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\homeprojectusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\homeprojectusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmilestone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmilestone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\tasksfullusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\tasksfullusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\projecttaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\projecttaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\milestoneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\milestoneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\meetingusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\meetingusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\hometaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\hometaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmilestone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmilestone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmilestone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmilestone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\meetingusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\meetingusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\services\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\services\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmeeting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmeeting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\homeprojectusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\homeprojectusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\hometaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\hometaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\milestoneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\milestoneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\tasksfullusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\tasksfullusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\tasks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\tasks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\projects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\projects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OOP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\projecttaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\projecttaskusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\inbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\inbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\avaterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\avaterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmilestone.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmilestone.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\inbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\inbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmembers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmembers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\notiusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\notiusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\memberitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\memberitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\milestoneusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\milestoneusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\meetingusercontrol.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\meetingusercontrol.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addtask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addtask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\memberitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\memberitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\home.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\home.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\usercontrols\\hometaskusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\usercontrols\\hometaskusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\baseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\baseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\forms\\addmeeting.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\forms\\addmeeting.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498AF7CB-ABCC-481F-A120-99E5FB569005}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Tasks.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Tasks.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Tasks.cs",
+              "RelativeToolTip": "OOP\\Forms\\Tasks.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawB0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projectmanager.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\Projectmanager.cs",
+              "RelativeDocumentMoniker": "OOP\\Services\\Projectmanager.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\Projectmanager.cs",
+              "RelativeToolTip": "OOP\\Services\\Projectmanager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Notification.cs",
+              "RelativeToolTip": "OOP\\Models\\Notification.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotDone.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\NotDone.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\NotDone.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\NotDone.cs",
+              "RelativeToolTip": "OOP\\Models\\NotDone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "OOP\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\UserService.cs",
+              "RelativeToolTip": "OOP\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Projects.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Projects.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Projects.cs",
+              "RelativeToolTip": "OOP\\Forms\\Projects.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAvwDYCAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Done.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Done.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Done.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Done.cs",
+              "RelativeToolTip": "OOP\\Models\\Done.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUpdateStatus.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\IUpdateStatus.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\IUpdateStatus.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\IUpdateStatus.cs",
+              "RelativeToolTip": "OOP\\Models\\IUpdateStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\TaskManager.cs",
+              "RelativeDocumentMoniker": "OOP\\Services\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\TaskManager.cs",
+              "RelativeToolTip": "OOP\\Services\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Home.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Home.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Home.cs",
+              "RelativeToolTip": "OOP\\Forms\\Home.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAawIEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Addtask.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Addtask.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Addtask.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Addtask.cs",
+              "RelativeToolTip": "OOP\\Forms\\Addtask.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAlwK0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddMilestone.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMilestone.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.cs",
+              "RelativeToolTip": "OOP\\Forms\\AddMilestone.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwFkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:50.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddMeeting.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMeeting.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.cs",
+              "RelativeToolTip": "OOP\\Forms\\AddMeeting.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v1gAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\User.cs",
+              "RelativeToolTip": "OOP\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Project.cs",
+              "RelativeToolTip": "OOP\\Models\\Project.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:50.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "OOP\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Models\\Task.cs",
+              "RelativeToolTip": "OOP\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeProjectUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeProjectUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\HomeProjectUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeProjectUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\HomeProjectUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TasksFullUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\TasksFullUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\TasksFullUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\TasksFullUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\TasksFullUserControl.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectTaskUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\ProjectTaskUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\ProjectTaskUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\ProjectTaskUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\ProjectTaskUserControl.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwDEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MilestoneUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MilestoneUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MilestoneUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MilestoneUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\MilestoneUserControl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEAAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeetingUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MeetingUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MeetingUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MeetingUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\MeetingUserControl.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAlwEcAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeTaskUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeTaskUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\HomeTaskUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeTaskUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\HomeTaskUserControl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIA6wEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMembers.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMembers.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\AddMembers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\AddMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Addtask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Addtask.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Addtask.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Addtask.cs [Design]",
+              "RelativeToolTip": "OOP\\Forms\\Addtask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddMilestone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMilestone.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.cs [Design]",
+              "RelativeToolTip": "OOP\\Forms\\AddMilestone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddMeeting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMeeting.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.cs [Design]",
+              "RelativeToolTip": "OOP\\Forms\\AddMeeting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Home.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Home.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Home.cs [Design]",
+              "RelativeToolTip": "OOP\\Forms\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:50.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddMilestone.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMilestone.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\AddMilestone.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MeetingUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MeetingUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MeetingUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MeetingUserControl.cs [Design]",
+              "RelativeToolTip": "OOP\\Usercontrols\\MeetingUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "OOP\\Services\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Services\\NotificationManager.cs",
+              "RelativeToolTip": "OOP\\Services\\NotificationManager.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAUwJMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddMeeting.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMeeting.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\AddMeeting.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeProjectUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeProjectUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\HomeProjectUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeProjectUserControl.cs [Design]",
+              "RelativeToolTip": "OOP\\Usercontrols\\HomeProjectUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tasks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Tasks.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Tasks.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Tasks.cs [Design]",
+              "RelativeToolTip": "OOP\\Forms\\Tasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeTaskUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeTaskUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\HomeTaskUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeTaskUserControl.cs [Design]",
+              "RelativeToolTip": "OOP\\Usercontrols\\HomeTaskUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MilestoneUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MilestoneUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MilestoneUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MilestoneUserControl.cs [Design]",
+              "RelativeToolTip": "OOP\\Usercontrols\\MilestoneUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TasksFullUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\TasksFullUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\TasksFullUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\TasksFullUserControl.cs [Design]",
+              "RelativeToolTip": "OOP\\Usercontrols\\TasksFullUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Tasks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Tasks.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Tasks.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Tasks.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\Tasks.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Projects.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Projects.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Projects.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Projects.cs [Design]",
+              "RelativeToolTip": "OOP\\Forms\\Projects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Projects.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Projects.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Projects.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Projects.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\Projects.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OOP",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\OOP.csproj",
+              "RelativeDocumentMoniker": "OOP\\OOP.csproj",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\OOP.csproj",
+              "RelativeToolTip": "OOP\\OOP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T02:08:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProjectTaskUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\ProjectTaskUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\ProjectTaskUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\ProjectTaskUserControl.cs [Design]",
+              "RelativeToolTip": "OOP\\Usercontrols\\ProjectTaskUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Inbox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Inbox.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Inbox.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\Inbox.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\Inbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\BaseForm.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\BaseForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\BaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Register.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Register.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AvaterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AvaterForm.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AvaterForm.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\AvaterForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Forms\\AvaterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddMilestone.resx",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.resx",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMilestone.resx",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMilestone.resx",
+              "RelativeToolTip": "OOP\\Forms\\AddMilestone.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-28T11:13:51.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\BaseForm.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\BaseForm.cs",
+              "RelativeToolTip": "OOP\\Forms\\BaseForm.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddMembers.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMembers.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMembers.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMembers.cs",
+              "RelativeToolTip": "OOP\\Forms\\AddMembers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Register.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Register.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Register.cs",
+              "RelativeToolTip": "OOP\\Forms\\Register.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowE4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Inbox.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Inbox.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Inbox.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Inbox.cs",
+              "RelativeToolTip": "OOP\\Forms\\Inbox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NotiUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\NotiUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\NotiUserControl.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\NotiUserControl.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\NotiUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-28T11:13:51.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\Form1.Designer.cs",
+              "ViewState": "AgIAAKwCAAAAAAAAAAAowNACAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddMembers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMembers.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMembers.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMembers.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\AddMembers.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-28T11:13:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NotiUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\NotiUserControl.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\NotiUserControl.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Usercontrols\\NotiUserControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Usercontrols\\NotiUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-28T11:13:51.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NotiUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\NotiUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\NotiUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\NotiUserControl.Designer.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\NotiUserControl.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAcwJMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-28T11:13:51.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Register.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\Register.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-28T11:13:51.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MemberItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MemberItem.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MemberItem.cs",
+              "ToolTip": "C:\\Users\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Usercontrols\\MemberItem.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\baole\\Documents\\GitHub\\FLowHub\\OOP\\OOP\\Usercontrols\\MemberItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-28T11:13:51.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MilestoneUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MilestoneUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MilestoneUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MilestoneUserControl.Designer.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\MilestoneUserControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MeetingUserControl.resx",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MeetingUserControl.resx",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MeetingUserControl.resx",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MeetingUserControl.resx",
+              "RelativeToolTip": "OOP\\Usercontrols\\MeetingUserControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-28T11:13:51.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Addtask.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Addtask.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Addtask.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Addtask.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\Addtask.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwKkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MemberItem.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MemberItem.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\MemberItem.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\MemberItem.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\MemberItem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwCUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-28T11:13:51.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Home.resx",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Home.resx",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Home.resx",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Home.resx",
+              "RelativeToolTip": "OOP\\Forms\\Home.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-28T11:13:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HomeTaskUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeTaskUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Usercontrols\\HomeTaskUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Usercontrols\\HomeTaskUserControl.Designer.cs",
+              "RelativeToolTip": "OOP\\Usercontrols\\HomeTaskUserControl.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBQwAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BaseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\BaseForm.Designer.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\BaseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\BaseForm.Designer.cs",
+              "RelativeToolTip": "OOP\\Forms\\BaseForm.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBQwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-28T11:13:51.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "OOP\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\Login.cs",
+              "RelativeToolTip": "OOP\\Forms\\Login.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-28T11:13:51.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AddMeeting.resx",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.resx",
+              "RelativeDocumentMoniker": "OOP\\Forms\\AddMeeting.resx",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Forms\\AddMeeting.resx",
+              "RelativeToolTip": "OOP\\Forms\\AddMeeting.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-28T11:13:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\dovie\\Downloads\\New folder\\FLowHub_OOP\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:51.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
